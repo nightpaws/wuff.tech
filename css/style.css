@@ -6,13 +6,17 @@
  * Made By MaterializeCSS.com
  */
 
+/* UI Text/icon colours */
 nav ul a,
 nav .brand-logo,
-#nav-mobile li a {
+#nav-mobile li a,
+.material-icons {
   /*color: #444;*/
   color: #ffa726;
 
 }
+
+/* End UI Override colours */
 
 p {
   line-height: 2rem;
